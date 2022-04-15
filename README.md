@@ -1,14 +1,21 @@
-# Work-Day-Scheduler
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+# Work Day Scheduler
+
+## Purpose
+A website to help you manage your task and keep you on track.
+
+## Built With
+* HTML
+* CSS
+* Javascript
+
+## Website
+https://roy4th.github.io/Work-Day-Scheduler/
+
+## Contribution
+Made with ❤️ by [Roy Velasquez]
+with help by [Kevin Long]
+
+### ©️2022 Work Day Scheduler, Inc
+
+![2022-04-15 (1)](https://user-images.githubusercontent.com/97925568/163653183-7c2f12b3-e0e4-4d15-a27a-e2ff65a91695.png)
+
